@@ -1,3 +1,3 @@
 # dette er en test test
-* #### Alt-H1
-* ting
+1. #### Alt-H1 ..* dims
+2. ting
